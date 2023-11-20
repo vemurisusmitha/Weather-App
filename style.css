@@ -1,0 +1,53 @@
+body {
+    font-family: Arial;
+    
+  }
+  #box {
+    width: 500px;
+    height: 650px;
+    margin-top: 100px;
+  
+    box-shadow: 0 10px 15px black;
+    border-radius: 10px;
+  }
+  .head {
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+  }
+  #city-input {
+    border-color: black;
+  
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+  }
+  #btn {
+    border-color: black;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+  }
+  #btn:hover {
+    background-color: white;
+    border-color: gold;
+    color: black;
+  }
+  .temperature {
+    font-size: 85px;
+    font-weight: lighter;
+    font-family: arial;
+    color: #f50538;
+  }
+  .description {
+    font-size: 18px;
+    color: black;
+  
+  }
+  .details {
+    font-size: 22px;
+    color: black;
+    color: white;
+    
+  }
